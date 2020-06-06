@@ -10,5 +10,11 @@ We have data on it
 https://mlcourse.ai/
 https://www.dataschool.io/machine-learning-with-scikit-learn/
 
+DataSets for MachineLearning:
+https://archive.ics.uci.edu/ml/index.php
+
+MachineLearning Challenges:
+https://www.kaggle.com/
+
 
 
