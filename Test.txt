@@ -1,1 +1,14 @@
-Testing purpose
+Important Links:
+================
+Learning from Data: Introduction to ML -
+https://www.youtube.com/watch?v=mbyG85GZ0PI
+Three Components that should exist for learning from Data:
+A Pattern Exists
+We cannot pin it down mathematically
+We have data on it
+
+https://mlcourse.ai/
+https://www.dataschool.io/machine-learning-with-scikit-learn/
+
+
+
